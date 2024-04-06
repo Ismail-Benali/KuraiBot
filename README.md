@@ -1,4 +1,5 @@
 <img width="539" src="https://github.com/Ismail-Benali/KuraiBot/assets/90980178/424daaa0-25f3-4896-b68a-f1a5cfdbb50d">
+
 KuraiBot
 KuraiBot is a powerful Python script that enables users to initiate volumetric attacks with spoofed IP addresses. This tool is designed for educational purposes and should only be used in controlled environments with proper authorization. KuraiBot utilizes multithreading to send a high volume of UDP packets to the target IP address and port, simulating a distributed denial-of-service (DDoS) attack.
 
