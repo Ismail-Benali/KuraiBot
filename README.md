@@ -20,5 +20,15 @@ KuraiBot is a powerful Python script designed to facilitate volumetric attacks w
 
 ### Disclaimer:
 KuraiBot is intended for educational and research purposes only. Misuse of this tool for malicious activities is strictly prohibited. The developer(s) assume no liability for any damages caused by the misuse of this script.
+ ### Contributing:
 
+Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
+
+### License:
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+### Contact:
+
+For any inquiries or support, please contact ismail-benali@proton.me.
 </font>
